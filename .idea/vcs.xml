@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/assignments/exercise-bt-conditionalstatements-ifelse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/exercise-bt-loops-dowhile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/exercise-bt-loops-for" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/exercise-bt-loops-largestnumber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/assignments/exercise-bt-operator-arithmeticoperator" vcs="Git" />
+  </component>
+</project>

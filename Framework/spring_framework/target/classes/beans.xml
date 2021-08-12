@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Bean definition for the class Car  -->
+    <bean id="maruti" class="com.Car">
+        <property name="id">
+            <value>101</value>
+        </property>
+        <property name="company">
+            <value>Maruti</value>
+        </property>
+        <property name="model">
+            <value>Baleno</value>
+        </property>
+        <property name="price">
+            <value>700000</value>
+        </property>
+    </bean>
+
+    <bean id="tata" class="com.Car">
+        <property name="id">
+            <value>102</value>
+        </property>
+        <property name="company">
+            <value>Tata</value>
+        </property>
+        <property name="model">
+            <value>XUV</value>
+        </property>
+        <property name="price">
+            <value>1300000</value>
+        </property>
+    </bean>
+
+
+
+</beans>
+
